@@ -1,0 +1,385 @@
+[
+  {
+    "results": [
+      {
+        "word_alternatives": [
+          {
+            "start_time": 1.35,
+            "alternatives": [
+              {
+                "confidence": 1.0,
+                "word": "you"
+              }
+            ],
+            "end_time": 1.83
+          },
+          {
+            "start_time": 1.86,
+            "alternatives": [
+              {
+                "confidence": 1.0,
+                "word": "know"
+              }
+            ],
+            "end_time": 2.21
+          },
+          {
+            "start_time": 2.21,
+            "alternatives": [
+              {
+                "confidence": 0.9322,
+                "word": "how"
+              }
+            ],
+            "end_time": 2.51
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "you",
+                1.35,
+                1.83
+              ],
+              [
+                "know",
+                1.86,
+                2.21
+              ],
+              [
+                "how",
+                2.21,
+                2.51
+              ]
+            ],
+            "confidence": 0.99,
+            "transcript": "you know how "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "results": [
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "Hey",
+                1.49,
+                1.96
+              ]
+            ],
+            "confidence": 0.521,
+            "transcript": "Hey "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "can",
+                3.47,
+                3.64
+              ],
+              [
+                "moon",
+                5.55,
+                6.08
+              ]
+            ],
+            "confidence": 0.519,
+            "transcript": "can moon "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "from",
+                7.65,
+                8.26
+              ]
+            ],
+            "confidence": 0.994,
+            "transcript": "from "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "where",
+                9.48,
+                9.86
+              ]
+            ],
+            "confidence": 0.506,
+            "transcript": "where "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "results": [
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "I",
+                0.84,
+                1.78
+              ],
+              [
+                "%HESITATION",
+                2.16,
+                2.87
+              ],
+              [
+                "%HESITATION",
+                3.38,
+                4.36
+              ],
+              [
+                "%HESITATION",
+                4.85,
+                5.55
+              ],
+              [
+                "or",
+                5.93,
+                6.43
+              ]
+            ],
+            "confidence": 0.625,
+            "transcript": "I %HESITATION %HESITATION %HESITATION or "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "results": [
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "you",
+                1.35,
+                2.18
+              ]
+            ],
+            "confidence": 0.996,
+            "transcript": "you "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [
+          {
+            "start_time": 3.55,
+            "alternatives": [
+              {
+                "confidence": 0.9116,
+                "word": "no"
+              }
+            ],
+            "end_time": 4.36
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "no",
+                3.55,
+                4.36
+              ]
+            ],
+            "confidence": 0.993,
+            "transcript": "no "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [
+          {
+            "start_time": 5.68,
+            "alternatives": [
+              {
+                "confidence": 0.9774,
+                "word": "how"
+              }
+            ],
+            "end_time": 6.18
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "how",
+                5.68,
+                6.18
+              ]
+            ],
+            "confidence": 0.921,
+            "transcript": "how "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "results": [
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "you",
+                1.4,
+                2.15
+              ]
+            ],
+            "confidence": 1.0,
+            "transcript": "you "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "know",
+                3.03,
+                3.68
+              ],
+              [
+                "how",
+                4.22,
+                4.61
+              ]
+            ],
+            "confidence": 0.654,
+            "transcript": "know how "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  },
+  {
+    "results": [
+      {
+        "word_alternatives": [],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "you",
+                1.35,
+                2.18
+              ]
+            ],
+            "confidence": 0.996,
+            "transcript": "you "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [
+          {
+            "start_time": 3.55,
+            "alternatives": [
+              {
+                "confidence": 0.9116,
+                "word": "no"
+              }
+            ],
+            "end_time": 4.36
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "no",
+                3.55,
+                4.36
+              ]
+            ],
+            "confidence": 0.993,
+            "transcript": "no "
+          }
+        ],
+        "final": true
+      },
+      {
+        "word_alternatives": [
+          {
+            "start_time": 5.68,
+            "alternatives": [
+              {
+                "confidence": 0.9774,
+                "word": "how"
+              }
+            ],
+            "end_time": 6.18
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "how",
+                5.68,
+                6.18
+              ]
+            ],
+            "confidence": 0.921,
+            "transcript": "how "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  }
+]

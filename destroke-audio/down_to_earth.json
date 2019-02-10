@@ -1,0 +1,55 @@
+[
+  {
+    "results": [
+      {
+        "word_alternatives": [
+          {
+            "start_time": 0.43,
+            "alternatives": [
+              {
+                "confidence": 0.9991,
+                "word": "down"
+              }
+            ],
+            "end_time": 0.71
+          },
+          {
+            "start_time": 0.71,
+            "alternatives": [
+              {
+                "confidence": 0.9158,
+                "word": "to"
+              }
+            ],
+            "end_time": 0.9
+          }
+        ],
+        "alternatives": [
+          {
+            "timestamps": [
+              [
+                "down",
+                0.43,
+                0.71
+              ],
+              [
+                "to",
+                0.71,
+                0.9
+              ],
+              [
+                "earth",
+                0.93,
+                1.16
+              ]
+            ],
+            "confidence": 0.805,
+            "transcript": "down to earth "
+          }
+        ],
+        "final": true
+      }
+    ],
+    "result_index": 0
+  }
+]
