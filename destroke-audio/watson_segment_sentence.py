@@ -3,7 +3,7 @@ import os
 import json
 from watson_developer_cloud import SpeechToTextV1
 
-APIKEY = 'JaWmzATHSjKOv5gkKeXOyVuBjNsmT_aVCfc51FuBINqe'
+#APIKEY = {import from credentials or externally}
 URL = 'https://stream.watsonplatform.net/speech-to-text/api'
 
 def get_words_from_audio(filename):
